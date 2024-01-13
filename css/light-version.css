@@ -1,0 +1,96 @@
+ /**
+*
+* ---------------------------------------------------------------------------
+*
+* Template Name : Morden | personal portfolio html5 responsive template
+* Template URL :	
+* Author :
+* Version : 1.0
+*
+* --------------------------------------------------------------------------- 
+*
+*/
+
+ /*-- light version --*/
+
+ .light-body-wraper {
+     background: #fff url("../img/light/light-body.png") repeat scroll 0 0 / contain;
+ }
+
+ .light,
+ .light span::before {
+     background-color: #fff !important;
+ }
+
+ .light-body-wraper .about-title-wraper h2,
+ .light-body-wraper .about-title-wraper p,
+ .light-body-wraper .short-title > h3,
+ .light-body-wraper .short-dec > p,
+ .light-body-wraper .single-service h3,
+ .light-body-wraper .heading h2,
+ .light-body-wraper .member-info h3,
+ .light-body-wraper .member-info span,
+ .light-body-wraper .member-info p,
+ .light-body-wraper .member-social-link a i.fa {
+     color: #373737 !important;
+ }
+
+ .light-body-wraper .member-social-link a i.fa:hover {
+     color: #c6a47e !important;
+ }
+
+ .light-body-wraper .service-middle h3 {
+     color: #c6a47e !important;
+ }
+
+ .light-body-wraper .about-img {
+     box-shadow: 10px 10px 0 #F1F1F1;
+ }
+
+ .light-body-wraper .single-service h3,
+ .light-body-wraper .section-title h2 {
+     color: #f7f7f7;
+ }
+
+ .light-body-wraper .service,
+ .light-body-wraper .single-member {
+     background: rgba(0, 0, 0, 0) url("../img/light/light-dot-bg.png") repeat scroll 0 0;
+ }
+
+ .light-body-wraper .single-service h2 {
+     color: #ebebeb;
+ }
+
+ .light-body-wraper .short-dec::before {
+     background: rgba(0, 0, 0, 0) url("../img/light/light-about-before.png") repeat scroll 0 0;
+ }
+
+ .light-body-wraper .service-ovely-img::before {
+     background-color: rgba(255, 255, 255, 0.8);
+ }
+
+ .light-body-wraper .about-area::before {
+     background: rgba(0, 0, 0, 0) url("../img/light/light-about-area-before.png") repeat scroll 0 0;
+ }
+
+ .light-body-wraper .about-area::after {
+     background: rgba(0, 0, 0, 0) url("../img/light/light-about-area-after.png") repeat scroll 0 0;
+ }
+
+ .light-body-wraper .overflow-box {
+     background-color: #f8f8f8;
+     color: #efefef;
+ }
+
+ .light-body-wraper .team-wraper .owl-nav div {
+     color: #272727;
+     background-color: #fff;
+ }
+
+ .light-body-wraper .team-wraper .owl-nav .owl-prev {
+     border-right: 1px solid #F1F1F1;
+ }
+
+ .light-body-wraper .contact-title h2 {
+     color: #2c2c2c;
+ }

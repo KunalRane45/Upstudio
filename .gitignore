@@ -1,0 +1,57 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore code editor settings
+.vscode/
+.idea/
+
+# Ignore dependencies
+/node_modules/
+/vendor/
+
+# Ignore logs and temporary files
+/logs/
+/tmp/
+
+# Ignore user-specific files
+*.iml
+*.log
+*.swp
+
+# Ignore environment-specific files
+.env
+
+# Ignore build and compiled files
+/build/
+/dist/
+
+# Ignore cache files
+/cache/
+
+# Ignore composer files
+/composer.phar
+/vendor/
+
+# Ignore npm files
+/package-lock.json
+/npm-debug.log
+
+# Ignore compiled PHP files
+*.phpc
+
+# Ignore any backup files
+*~
+
+# Ignore SQLite database file
+*.sqlite
+
+# Ignore sass cache
+.sass-cache/
+
+# Ignore any personal or sensitive information
+config.php
+
+*.zip
+*.log
+error_log
